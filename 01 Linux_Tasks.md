@@ -1,4 +1,4 @@
-# 🐧 Linux DevOps Lab Tasks 
+# Linux DevOps Lab Tasks 
 
 ###  Task 1: System Exploration and Navigation
 **Objective**  
