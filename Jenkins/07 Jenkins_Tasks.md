@@ -2,7 +2,7 @@
 
 ---
 
-## Task 1: Creating Multibranch Pipeline Job
+## Task 61: Creating Multibranch Pipeline Job
 
 ### Objective
 
@@ -19,7 +19,7 @@ Create a Jenkins Multibranch Pipeline project.
 
 ---
 
-## Task 2: Configuring Git Branch Source
+## Task 62: Configuring Git Branch Source
 
 ### Objective
 
@@ -37,7 +37,7 @@ Connect Multibranch Pipeline with Git repository.
 
 ---
 
-## Task 3: Configuring Jenkinsfile Path
+## Task 63: Configuring Jenkinsfile Path
 
 ### Objective
 
@@ -53,7 +53,7 @@ Configure pipeline script detection for each branch.
 
 ---
 
-## Task 4: Scanning Branches and Triggering Builds
+## Task 64: Scanning Branches and Triggering Builds
 
 ### Objective
 
@@ -70,7 +70,7 @@ Automatically detect branches and trigger builds.
 
 ---
 
-## Task 5: Verifying Branch-Based Job Creation
+## Task 65: Verifying Branch-Based Job Creation
 
 ### Objective
 
@@ -86,7 +86,7 @@ Verify pipeline creation for branches containing Jenkinsfile.
 
 ---
 
-## Task 6: Creating New QA Branch
+## Task 66: Creating New QA Branch
 
 ### Objective
 
@@ -104,7 +104,7 @@ Verify automatic branch detection for newly created branches.
 
 ---
 
-## Task 7: Verifying Branch Deletion Handling
+## Task 67: Verifying Branch Deletion Handling
 
 ### Objective
 
@@ -121,7 +121,7 @@ Verify automatic cleanup for deleted branches.
 
 ---
 
-## Task 8: Performing Manual Jenkins Backup
+## Task 68: Performing Manual Jenkins Backup
 
 ### Objective
 
@@ -138,7 +138,7 @@ Create manual backup of Jenkins configuration.
 
 ---
 
-## Task 9: Configuring ThinBackup Plugin
+## Task 69: Configuring ThinBackup Plugin
 
 ### Objective
 
@@ -156,7 +156,7 @@ Automate Jenkins backup using ThinBackup plugin.
 
 ---
 
-## Task 10: Running Restore and Automated Backup
+## Task 70: Running Restore and Automated Backup
 
 ### Objective
 
