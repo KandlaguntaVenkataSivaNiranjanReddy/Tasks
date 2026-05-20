@@ -1,6 +1,6 @@
 # Docker Tasks
 
-## Task 1: Understanding Docker Architecture Components
+## Task 11: Understanding Docker Architecture Components
 
 ### Objective
 
@@ -17,7 +17,7 @@ Verify Docker architecture components and workflow.
 
 ---
 
-## Task 2: Creating Docker Hub Account
+## Task 12: Creating Docker Hub Account
 
 ### Objective
 
@@ -36,7 +36,7 @@ Create a Docker Hub account for image storage and sharing.
 
 ---
 
-## Task 3: Cloning Java Web Application Project
+## Task 13: Cloning Java Web Application Project
 
 ### Objective
 
@@ -53,7 +53,7 @@ Prepare a sample Java web application for Docker build.
 
 ---
 
-## Task 4: Building WAR File Using Maven
+## Task 14: Building WAR File Using Maven
 
 ### Objective
 
@@ -72,7 +72,7 @@ Generate deployable WAR file before Docker image creation.
 
 ---
 
-## Task 5: Creating Dockerfile for Java Web Application
+## Task 15: Creating Dockerfile for Java Web Application
 
 ### Objective
 
@@ -89,7 +89,7 @@ Create Dockerfile for containerizing the Java web application.
 
 ---
 
-## Task 6: Building Docker Image
+## Task 16: Building Docker Image
 
 ### Objective
 
@@ -106,7 +106,7 @@ Build Docker image from Dockerfile.
 
 ---
 
-## Task 7: Tagging and Pushing Docker Image to Docker Hub
+## Task 17: Tagging and Pushing Docker Image to Docker Hub
 
 ### Objective
 
@@ -123,7 +123,7 @@ Version and upload Docker image to Docker Hub.
 
 ---
 
-## Task 8: Running Docker Container from Image
+## Task 18: Running Docker Container from Image
 
 ### Objective
 
@@ -141,7 +141,7 @@ Run application container from Docker image.
 
 ---
 
-## Task 9: Managing Docker Containers and Images
+## Task 19: Managing Docker Containers and Images
 
 ### Objective
 
@@ -160,7 +160,7 @@ Verify container and image management operations.
 
 ---
 
-## Task 10: Deploying Docker Image on Separate Deployment Server
+## Task 20: Deploying Docker Image on Separate Deployment Server
 
 ### Objective
 
