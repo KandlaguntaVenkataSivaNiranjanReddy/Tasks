@@ -1,4 +1,4 @@
-# Docker Data Persistence Practical La Tasks
+# Docker Tasks
 
 ## Task 1: Building Spring Boot Application Docker Image
 
