@@ -1,6 +1,6 @@
 # Kubernetes Labels & Services Practical Lab Tasks
 
-## Task 1: Creating Namespace for Service Testing
+## Task 11: Creating Namespace for Service Testing
 
 ### Objective
 
@@ -15,7 +15,7 @@ Prepare a namespace for Pod and Service deployment.
 
 ---
 
-## Task 2: Creating Pods with Labels
+## Task 12: Creating Pods with Labels
 
 ### Objective
 
@@ -36,7 +36,7 @@ Deploy Pods with labels for grouping and selection.
 
 ---
 
-## Task 3: Creating Another Pod with Different Label
+## Task 13: Creating Another Pod with Different Label
 
 ### Objective
 
@@ -57,7 +57,7 @@ Deploy another Pod with separate label for grouping comparison.
 
 ---
 
-## Task 4: Verifying Pod Labels and Pod IPs
+## Task 14: Verifying Pod Labels and Pod IPs
 
 ### Objective
 
@@ -74,7 +74,7 @@ Inspect labels and network details of Pods.
 
 ---
 
-## Task 5: Verifying Pod-to-Pod Communication Using Pod IP
+## Task 15: Verifying Pod-to-Pod Communication Using Pod IP
 
 ### Objective
 
@@ -92,7 +92,7 @@ Test communication between Pods using Pod IP addresses.
 
 ---
 
-## Task 6: Creating ClusterIP Service Using Labels and Selectors
+## Task 16: Creating ClusterIP Service Using Labels and Selectors
 
 ### Objective
 
@@ -114,7 +114,7 @@ Create internal Kubernetes Service for Pod communication.
 
 ---
 
-## Task 7: Verifying ClusterIP Service and Endpoints
+## Task 17: Verifying ClusterIP Service and Endpoints
 
 ### Objective
 
@@ -133,7 +133,7 @@ Verify Service-to-Pod routing using selectors and endpoints.
 
 ---
 
-## Task 8: Creating NodePort Service
+## Task 18: Creating NodePort Service
 
 ### Objective
 
@@ -155,7 +155,7 @@ Expose application externally using NodePort Service.
 
 ---
 
-## Task 9: Verifying External Access Using NodePort Service
+## Task 19: Verifying External Access Using NodePort Service
 
 ### Objective
 
@@ -173,7 +173,7 @@ Verify external client access to Kubernetes application.
 
 ---
 
-## Task 10: Verifying Service Types and Final Validation
+## Task 20: Verifying Service Types and Final Validation
 
 ### Objective
 
