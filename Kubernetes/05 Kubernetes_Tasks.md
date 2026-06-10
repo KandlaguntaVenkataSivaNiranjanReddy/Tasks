@@ -1,6 +1,6 @@
 # Kubernetes DaemonSet Tasks
 
-## Task 1: Verifying Existing Cluster Nodes for DaemonSet Deployment
+## Task 41: Verifying Existing Cluster Nodes for DaemonSet Deployment
 
 ### Objective
 
@@ -16,7 +16,7 @@ Understand Node availability before deploying DaemonSet.
 
 ---
 
-## Task 2: Identifying Existing DaemonSet Pods in kube-system Namespace
+## Task 42: Identifying Existing DaemonSet Pods in kube-system Namespace
 
 ### Objective
 
@@ -33,7 +33,7 @@ Understand real-world DaemonSet usage inside Kubernetes cluster.
 
 ---
 
-## Task 3: Creating Basic DaemonSet YAML
+## Task 43: Creating Basic DaemonSet YAML
 
 ### Objective
 
@@ -56,7 +56,7 @@ Create a DaemonSet configuration file.
 
 ---
 
-## Task 4: Deploying Basic DaemonSet
+## Task 44: Deploying Basic DaemonSet
 
 ### Objective
 
@@ -73,7 +73,7 @@ Deploy DaemonSet on cluster Nodes.
 
 ---
 
-## Task 5: Verifying DaemonSet Pod Scheduling Behavior
+## Task 45: Verifying DaemonSet Pod Scheduling Behavior
 
 ### Objective
 
@@ -89,7 +89,7 @@ Verify DaemonSet Pod scheduling across cluster Nodes.
 
 ---
 
-## Task 6: Verifying Master Node Taints
+## Task 46: Verifying Master Node Taints
 
 ### Objective
 
@@ -105,7 +105,7 @@ Understand why DaemonSet Pods are not scheduled on certain Nodes.
 
 ---
 
-## Task 7: Updating DaemonSet with Tolerations
+## Task 47: Updating DaemonSet with Tolerations
 
 ### Objective
 
@@ -123,7 +123,7 @@ Allow DaemonSet Pods to run on Master or control-plane Node.
 
 ---
 
-## Task 8: Verifying DaemonSet Pods on All Nodes
+## Task 48: Verifying DaemonSet Pods on All Nodes
 
 ### Objective
 
@@ -139,7 +139,7 @@ Verify DaemonSet Pods run on Master and Worker Nodes.
 
 ---
 
-## Task 9: Verifying Automatic Pod Scheduling on New Node
+## Task 49: Verifying Automatic Pod Scheduling on New Node
 
 ### Objective
 
@@ -156,7 +156,7 @@ Understand automatic DaemonSet Pod creation on newly added Nodes.
 
 ---
 
-## Task 10: Deleting DaemonSet and Final Validation
+## Task 50: Deleting DaemonSet and Final Validation
 
 ### Objective
 
