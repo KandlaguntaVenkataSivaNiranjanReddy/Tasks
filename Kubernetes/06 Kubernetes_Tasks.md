@@ -10,6 +10,8 @@ Verify test-ns namespace availability
 Display existing resources in test-ns namespace
 Confirm namespace readiness for Deployment deployment
 
+---
+
 ## Task 2: Creating Deployment YAML
 
 ### Objective
@@ -29,6 +31,8 @@ Add containerPort configuration as 8080
 Save YAML file
 Verify Deployment YAML content
 
+---
+
 ## Task 3: Creating NodePort Service for Deployment
 
 ### Objective
@@ -44,6 +48,8 @@ Configure nodePort value
 Save YAML file
 Verify Service YAML configuration
 
+---
+
 ## Task 4: Deploying Kubernetes Deployment
 
 ### Objective
@@ -57,6 +63,8 @@ Verify Pod creation
 Verify NodePort Service creation
 Display all resources in test-ns namespace
 Confirm successful Deployment deployment
+
+---
 
 ## Task 5: Verifying Deployment, ReplicaSet, and Pod Relationship
 
@@ -73,6 +81,8 @@ Display running Pods
 Verify Pod ownership by ReplicaSet
 Confirm Deployment → ReplicaSet → Pod relationship understanding
 
+---
+
 ## Task 6: Verifying External Access Through NodePort Service
 
 ### Objective
@@ -87,6 +97,8 @@ Access application using NodeIP:NodePort in browser
 Verify successful application response
 Confirm external Service accessibility
 
+---
+
 ## Task 7: Verifying Deployment Rollout Status
 
 ### Objective
@@ -98,6 +110,8 @@ Verify Deployment successfully rolled out message
 Verify all Pods are in Running state
 Verify Deployment availability status
 Confirm successful rollout completion
+
+---
 
 ## Task 8: Scaling Deployment Up
 
@@ -112,6 +126,8 @@ Verify new Pods are created automatically
 Verify updated replica count
 Confirm successful scale-up operation
 
+---
+
 ## Task 9: Scaling Deployment Down
 
 ### Objective
@@ -123,6 +139,8 @@ Scale Deployment replicas to 2
 Verify extra Pods are terminated automatically
 Verify updated replica count
 Confirm successful scale-down operation
+
+---
 
 ## Task 10: Testing Deployment Self-Healing Behavior
 
@@ -138,6 +156,8 @@ Verify automatic recreation of replacement Pod
 Verify desired replica count maintained
 Confirm successful self-healing behavior
 
+---
+
 ## Task 11: Configuring Recreate Deployment Strategy
 
 ### Objective
@@ -151,6 +171,8 @@ Save YAML file
 Apply updated Deployment YAML
 Verify Deployment strategy update
 Confirm Recreate strategy configuration
+
+---
 
 ## Task 12: Updating Deployment Image Using Recreate Strategy
 
@@ -166,6 +188,8 @@ Verify new Pods are created after old Pod deletion
 Verify new ReplicaSet creation
 Confirm Recreate strategy rollout behavior
 
+---
+
 ## Task 13: Verifying Downtime During Recreate Strategy
 
 ### Objective
@@ -179,6 +203,8 @@ Verify new Pods start after deletion completes
 Verify application downtime during rollout
 Confirm Recreate strategy behavior understanding
 
+---
+
 ## Task 14: Verifying Deployment Rollout History and Revisions
 
 ### Objective
@@ -191,6 +217,8 @@ Verify old ReplicaSets are retained
 Verify current active ReplicaSet
 Display all resources in test-ns namespace
 Confirm Deployment revision tracking behavior
+
+---
 
 ## Task 15: Updating Deployment Multiple Times
 
@@ -208,6 +236,8 @@ Verify another new ReplicaSet creation
 Verify only latest ReplicaSet is active
 Confirm Deployment rollout and ReplicaSet versioning behavior
 
+---
+
 ## Task 16: Performing Deployment Rollback
 
 ### Objective
@@ -222,6 +252,8 @@ Verify old ReplicaSet scaled up automatically
 Verify Pods recreated from rollback revision
 Confirm successful Deployment rollback behavior
 
+---
+
 ## Task 17: Verifying Rollback Revision Increment Behavior
 
 ### Objective
@@ -235,6 +267,8 @@ Verify rollback creates a new revision number
 Verify revision numbers continue increasing
 Confirm Deployment revision behavior understanding
 
+---
+
 ## Task 18: Configuring RollingUpdate Deployment Strategy
 
 ### Objective
@@ -247,6 +281,8 @@ Configure strategy type as RollingUpdate
 Save YAML file
 Apply updated Deployment YAML
 Verify RollingUpdate strategy configuration
+
+---
 
 ## Task 19: Updating Deployment Using RollingUpdate Strategy
 
@@ -262,6 +298,8 @@ Verify old Pods terminate one by one
 Monitor rollout progress using rollout status
 Confirm RollingUpdate rollout behavior
 
+---
+
 ## Task 20: Verifying Zero Downtime Behavior and Final Validation
 
 ### Objective
@@ -274,3 +312,5 @@ Verify at least one Pod remains running during rollout
 Compare Recreate vs RollingUpdate behavior
 Verify latest ReplicaSet is active
 Confirm successful zero downtime Deployment strategy behavior
+
+---
