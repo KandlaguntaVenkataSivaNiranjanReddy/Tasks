@@ -1,6 +1,6 @@
 # Kubernetes Deployment Practical Lab Tasks
 
-## Task 1: Verifying Existing Namespace for Deployment Testing
+## Task 51: Verifying Existing Namespace for Deployment Testing
 
 ### Objective
 
@@ -14,7 +14,7 @@ Use the existing namespace for Deployment deployment.
 
 ---
 
-## Task 2: Creating Deployment YAML
+## Task 52: Creating Deployment YAML
 
 ### Objective
 
@@ -37,7 +37,7 @@ Create a Kubernetes Deployment configuration file.
 
 ---
 
-## Task 3: Creating NodePort Service for Deployment
+## Task 53: Creating NodePort Service for Deployment
 
 ### Objective
 
@@ -56,7 +56,7 @@ Expose Deployment application externally using NodePort Service.
 
 ---
 
-## Task 4: Deploying Kubernetes Deployment
+## Task 54: Deploying Kubernetes Deployment
 
 ### Objective
 
@@ -74,7 +74,7 @@ Deploy application using Kubernetes Deployment.
 
 ---
 
-## Task 5: Verifying Deployment, ReplicaSet, and Pod Relationship
+## Task 55: Verifying Deployment, ReplicaSet, and Pod Relationship
 
 ### Objective
 
@@ -93,7 +93,7 @@ Understand Deployment architecture and resource hierarchy.
 
 ---
 
-## Task 6: Verifying External Access Through NodePort Service
+## Task 56: Verifying External Access Through NodePort Service
 
 ### Objective
 
@@ -111,7 +111,7 @@ Verify external application access using NodePort Service.
 
 ---
 
-## Task 7: Verifying Deployment Rollout Status
+## Task 57: Verifying Deployment Rollout Status
 
 ### Objective
 
@@ -127,7 +127,7 @@ Monitor Deployment rollout progress.
 
 ---
 
-## Task 8: Scaling Deployment Up
+## Task 58: Scaling Deployment Up
 
 ### Objective
 
@@ -144,7 +144,7 @@ Increase the number of application Pods.
 
 ---
 
-## Task 9: Scaling Deployment Down
+## Task 59: Scaling Deployment Down
 
 ### Objective
 
@@ -160,7 +160,7 @@ Reduce the number of application Pods.
 
 ---
 
-## Task 10: Testing Deployment Self-Healing Behavior
+## Task 60: Testing Deployment Self-Healing Behavior
 
 ### Objective
 
@@ -178,7 +178,7 @@ Verify automatic Pod recreation by Deployment.
 
 ---
 
-## Task 11: Configuring Recreate Deployment Strategy
+## Task 61: Configuring Recreate Deployment Strategy
 
 ### Objective
 
@@ -196,7 +196,7 @@ Configure Deployment to use Recreate update strategy.
 
 ---
 
-## Task 12: Updating Deployment Image Using Recreate Strategy
+## Task 62: Updating Deployment Image Using Recreate Strategy
 
 ### Objective
 
@@ -214,7 +214,7 @@ Update application version using Recreate strategy.
 
 ---
 
-## Task 13: Verifying Downtime During Recreate Strategy
+## Task 63: Verifying Downtime During Recreate Strategy
 
 ### Objective
 
@@ -231,7 +231,7 @@ Understand downtime behavior during Recreate rollout.
 
 ---
 
-## Task 14: Verifying Deployment Rollout History and Revisions
+## Task 64: Verifying Deployment Rollout History and Revisions
 
 ### Objective
 
@@ -248,7 +248,7 @@ Track Deployment revisions and rollout history.
 
 ---
 
-## Task 15: Updating Deployment Multiple Times
+## Task 65: Updating Deployment Multiple Times
 
 ### Objective
 
@@ -268,7 +268,7 @@ Understand ReplicaSet creation during multiple Deployment updates.
 
 ---
 
-## Task 16: Performing Deployment Rollback
+## Task 66: Performing Deployment Rollback
 
 ### Objective
 
@@ -286,7 +286,7 @@ Rollback Deployment to previous stable version.
 
 ---
 
-## Task 17: Verifying Rollback Revision Increment Behavior
+## Task 67: Verifying Rollback Revision Increment Behavior
 
 ### Objective
 
@@ -303,7 +303,7 @@ Understand Kubernetes rollback revision management.
 
 ---
 
-## Task 18: Configuring RollingUpdate Deployment Strategy
+## Task 68: Configuring RollingUpdate Deployment Strategy
 
 ### Objective
 
@@ -320,7 +320,7 @@ Configure Deployment to use RollingUpdate strategy.
 
 ---
 
-## Task 19: Updating Deployment Using RollingUpdate Strategy
+## Task 69: Updating Deployment Using RollingUpdate Strategy
 
 ### Objective
 
@@ -338,7 +338,7 @@ Update application version with minimal downtime.
 
 ---
 
-## Task 20: Verifying Zero Downtime Behavior and Final Validation
+## Task 70: Verifying Zero Downtime Behavior and Final Validation
 
 ### Objective
 
