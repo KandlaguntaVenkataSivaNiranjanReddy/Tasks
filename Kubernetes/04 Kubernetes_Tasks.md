@@ -1,6 +1,6 @@
 # Kubernetes ReplicaSet Lab Tasks
 
-## Task 1: Verifying Existing Namespace for ReplicaSet Deployment
+## Task 31: Verifying Existing Namespace for ReplicaSet Deployment
 
 ### Objective
 
@@ -14,7 +14,7 @@ Use the existing namespace for ReplicaSet deployment.
 
 ---
 
-## Task 2: Creating ReplicaSet YAML Using matchLabels
+## Task 32: Creating ReplicaSet YAML Using matchLabels
 
 ### Objective
 
@@ -38,7 +38,7 @@ Create a ReplicaSet configuration file using matchLabels selector.
 
 ---
 
-## Task 3: Deploying ReplicaSet
+## Task 33: Deploying ReplicaSet
 
 ### Objective
 
@@ -55,7 +55,7 @@ Deploy ReplicaSet and create Pods automatically.
 
 ---
 
-## Task 4: Verifying ReplicaSet-Created Pods
+## Task 34: Verifying ReplicaSet-Created Pods
 
 ### Objective
 
@@ -72,7 +72,7 @@ Verify Pods created and managed by ReplicaSet.
 
 ---
 
-## Task 5: Verifying Labels and Selector Matching
+## Task 35: Verifying Labels and Selector Matching
 
 ### Objective
 
@@ -89,7 +89,7 @@ Verify label-based Pod management in ReplicaSet.
 
 ---
 
-## Task 6: Testing ReplicaSet Self-Healing Behavior
+## Task 36: Testing ReplicaSet Self-Healing Behavior
 
 ### Objective
 
@@ -108,7 +108,7 @@ Verify automatic Pod recreation when a Pod is deleted.
 
 ---
 
-## Task 7: Verifying Pod Ownership by ReplicaSet
+## Task 37: Verifying Pod Ownership by ReplicaSet
 
 ### Objective
 
@@ -125,7 +125,7 @@ Verify which controller manages the Pods.
 
 ---
 
-## Task 8: Scaling ReplicaSet Up and Down
+## Task 38: Scaling ReplicaSet Up and Down
 
 ### Objective
 
@@ -143,7 +143,7 @@ Scale ReplicaSet Pods based on requirement.
 
 ---
 
-## Task 9: Working with matchExpressions Selector
+## Task 39: Working with matchExpressions Selector
 
 ### Objective
 
@@ -163,7 +163,7 @@ Understand advanced label selector configuration using matchExpressions.
 
 ---
 
-## Task 10: Updating ReplicaSet Image Version and Final Validation
+## Task 40: Updating ReplicaSet Image Version and Final Validation
 
 ### Objective
 
