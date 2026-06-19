@@ -1,6 +1,6 @@
 # Ansible Playbook Practical Lab Tasks
 
-## Task 1: Executing Multiple Tasks Using Ansible Ad-Hoc Commands
+## Task 29: Executing Multiple Tasks Using Ansible Ad-Hoc Commands
 
 ### Objective
 Understand how to perform multiple administrative tasks using Ansible Ad-Hoc commands.
@@ -19,7 +19,7 @@ Understand how to perform multiple administrative tasks using Ansible Ad-Hoc com
 
 ---
 
-## Task 2: Creating the First Ansible Playbook
+## Task 30: Creating the First Ansible Playbook
 
 ### Objective
 Create an Ansible Playbook to automate Apache HTTP Server deployment.
@@ -37,7 +37,7 @@ Create an Ansible Playbook to automate Apache HTTP Server deployment.
 
 ---
 
-## Task 3: Verifying Playbook Syntax
+## Task 31: Verifying Playbook Syntax
 
 ### Objective
 Validate the Playbook before execution.
@@ -52,7 +52,7 @@ Validate the Playbook before execution.
 
 ---
 
-## Task 4: Executing the Ansible Playbook
+## Task 32: Executing the Ansible Playbook
 
 ### Objective
 Deploy Apache HTTP Server using the Ansible Playbook.
@@ -68,7 +68,7 @@ Deploy Apache HTTP Server using the Ansible Playbook.
 
 ---
 
-## Task 5: Verifying Apache Deployment
+## Task 33: Verifying Apache Deployment
 
 ### Objective
 Validate successful Apache deployment.
@@ -83,7 +83,7 @@ Validate successful Apache deployment.
 
 ---
 
-## Task 6: Creating Git Installation Playbook
+## Task 34: Creating Git Installation Playbook
 
 ### Objective
 Create a Playbook to automate Git installation.
@@ -99,7 +99,7 @@ Create a Playbook to automate Git installation.
 
 ---
 
-## Task 7: Verifying and Executing Git Installation Playbook
+## Task 35: Verifying and Executing Git Installation Playbook
 
 ### Objective
 Install Git on all Managed Nodes using an Ansible Playbook.
@@ -114,7 +114,7 @@ Install Git on all Managed Nodes using an Ansible Playbook.
 
 ---
 
-## Task 8: Creating Unzip Installation Playbook
+## Task 36: Creating Unzip Installation Playbook
 
 ### Objective
 Create a Playbook to automate Unzip installation.
@@ -130,7 +130,7 @@ Create a Playbook to automate Unzip installation.
 
 ---
 
-## Task 9: Verifying and Executing Unzip Installation Playbook
+## Task 37: Verifying and Executing Unzip Installation Playbook
 
 ### Objective
 Install Unzip on all Managed Nodes using an Ansible Playbook.
@@ -145,7 +145,7 @@ Install Unzip on all Managed Nodes using an Ansible Playbook.
 
 ---
 
-## Task 10: Creating a Playbook Using the File Module
+## Task 38: Creating a Playbook Using the File Module
 
 ### Objective
 Create a file on Managed Nodes using the Ansible File module.
@@ -166,7 +166,7 @@ Create a file on Managed Nodes using the Ansible File module.
 
 ---
 
-## Task 11: Verifying and Executing File Module Playbook
+## Task 39: Verifying and Executing File Module Playbook
 
 ### Objective
 Create a file on Managed Nodes using the Ansible File module.
@@ -181,7 +181,7 @@ Create a file on Managed Nodes using the Ansible File module.
 
 ---
 
-## Task 12: Verifying File Creation on Managed Nodes
+## Task 40: Verifying File Creation on Managed Nodes
 
 ### Objective
 Validate file creation on all Managed Nodes.
@@ -197,7 +197,7 @@ Validate file creation on all Managed Nodes.
 
 ---
 
-## Task 13: Exploring File Module States
+## Task 41: Exploring File Module States
 
 ### Objective
 Understand different states supported by the Ansible File module.
@@ -214,7 +214,7 @@ Understand different states supported by the Ansible File module.
 
 ---
 
-## Task 14: Configuring the Ansible Control Node in Inventory
+## Task 42: Configuring the Ansible Control Node in Inventory
 
 ### Objective
 Configure the Ansible Control Node in the inventory file.
@@ -231,7 +231,7 @@ Configure the Ansible Control Node in the inventory file.
 
 ---
 
-## Task 15: Verifying Inventory Configuration
+## Task 43: Verifying Inventory Configuration
 
 ### Objective
 Validate the inventory configuration.
@@ -246,7 +246,7 @@ Validate the inventory configuration.
 
 ---
 
-## Task 16: Verifying Connectivity Using Ansible Ping Module
+## Task 44: Verifying Connectivity Using Ansible Ping Module
 
 ### Objective
 Verify connectivity to all inventory hosts.
@@ -261,7 +261,7 @@ Verify connectivity to all inventory hosts.
 
 ---
 
-## Task 17: Understanding Inventory Organization
+## Task 45: Understanding Inventory Organization
 
 ### Objective
 Understand proper inventory organization in Ansible.
@@ -276,7 +276,7 @@ Understand proper inventory organization in Ansible.
 
 ---
 
-## Task 18: Final Validation of Ansible Playbooks
+## Task 46: Final Validation of Ansible Playbooks
 
 ### Objective
 Verify successful Playbook creation, execution, and inventory configuration.
